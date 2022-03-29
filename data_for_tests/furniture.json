@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6188f2447bfae277ce60e9f3"
+  },
+  "name": "closet",
+  "hasWarranty": true,
+  "isPopular": true,
+  "price": 3000,
+  "quantity": 30,
+  "stock": true,
+  "description": "Small simple closet for living room",
+  "categoryArray": [
+    "living room",
+    "bedroom",
+    ""
+  ],
+  "materialArray": [
+    "oakwood",
+    "plywood",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "619637eeba71df9cdb00163d"
+  },
+  "name": "kitchen",
+  "hasWarranty": true,
+  "isPopular": true,
+  "price": 7000,
+  "quantity": 3,
+  "stock": true,
+  "description": "Full kitchen (sink, washing machine etc)",
+  "categoryArray": [
+    "kitchen",
+    "",
+    ""
+  ],
+  "materialArray": [
+    "oakwood",
+    "plywood",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "619637f2ba71df9cdb00163e"
+  },
+  "name": "Bed",
+  "hasWarranty": true,
+  "isPopular": false,
+  "price": 2000,
+  "quantity": 13,
+  "stock": true,
+  "description": "Single bed with matras",
+  "categoryArray": [
+    "dinning room",
+    "bedroom",
+    ""
+  ],
+  "materialArray": [
+    "oakwood",
+    "plywood",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "619637f8ba71df9cdb00163f"
+  },
+  "name": "Scarpiera",
+  "hasWarranty": true,
+  "isPopular": false,
+  "price": 700,
+  "quantity": 300,
+  "stock": true,
+  "description": "Keep yoru shoes in place",
+  "categoryArray": [
+    "dinning room",
+    "bedroom",
+    ""
+  ],
+  "materialArray": [
+    "oakwood",
+    "plywood",
+    ""
+  ]
+}]
