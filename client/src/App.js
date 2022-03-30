@@ -52,6 +52,7 @@ function App() {
       <main className={classes.content}>
       <Routes />
       </main>
+      <h1>Hello</h1>
       <footer className={classes.footer}>
         <IconButton>
         <FacebookIcon/>
